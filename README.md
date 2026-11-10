@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Simbarashe Arnold Chinoviringa 👋
 
-<!--
-**Arnold-rashe/Arnold-rashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Information Technology Graduate from the University of Eswatini.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Aspiring Cybersecurity Professional
+
+🕵️ Interested in Digital Forensics & Incident Response
+
+🐧 Learning Linux and Network Security
+
+💻 Building practical cybersecurity projects
+
+## Current Goals
+
+- Earn CCNA
+- Earn CompTIA Security+
+- Build a Cybersecurity Portfolio
+- Gain Industry Experience
+- Pursue a Career in Digital Forensics
+
+## Technologies
+
+- Python
+- C++
+- SQL
+- Linux
+- Networking
+- Git & GitHub
+
+> "Trust in the Lord with all your heart."
+>
+> Proverbs 3:5
+
+## Connect With Me
+
+📧 simplexchinoviringa21@gmail.com / arnoldchino21@icloud.com
+
+📍 Harare, Zimbabwe 
+
